@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.btn-outline-success  {
+    color: #ffffff;
+    border-color: #ffffff;
+}
+.btn-outline {
+    color: #ffffff;
+}
+.text{
+    color: white;
+}
+.card{
+    color: darkgrey;
+}
+.d-grid{
+    margin: 15px;
+}
+.navbar-light .navbar-brand {
+    color: rgba(255, 255, 255, 0.9);
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #ffffff;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: 14.3px;
+}
+.hero--text{
+    margin-top: 150px;
+}
+
+.hero--video-container {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 72%;
+    z-index:-1;
+    overflow: hidden;
+}
+.photosPeople{
+    background-color: rgba(117, 175, 233, 0.1);
+}
+.story-selector-media-16-9{
+    width: 100%;
+    height: 240px;
+    padding: 0;
+    left: 0 ;
+}
+.getInv{
+    margin-top: -15rem;
+}
+.videoLoop{
+    margin-top: -5rem;
+}
+.drop {
+    width: 850px;
+    height: 205px;
+    left: -340px;
+}
+.drop_two {
+    width: 850px;
+    height: 385px;
+    left: -340px;
+}
+.center{
+    padding-top: 7.9rem;
+}
+.dropdown-menu[data-bs-popper] {
+    top: 100%;
+    left: -340px;
+    margin-top: .125rem;
+}
+.back-gray{
+    background-color: rgba(117, 175, 233, 0.1);
+    width: 570px;
+    height: 205px;
+    top: -10px;
+    position: relative;
+}
+.back-gray-two{
+    background-color: rgba(117, 175, 233, 0.1);
+    width: 570px;
+    height: 384.9px;
+    top: -10px;
+    position: relative;
+}
+
+html, body{height: 100%;}
+
+hr.vertical {
+    width: 1px;
+    height: 99%;
+    position: absolute;
+    top: -15.7px;
+    left: 277.6px;
+}
+hr.horizontal {
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    top: 244.3px
+}
